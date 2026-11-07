@@ -1,4 +1,4 @@
-﻿/* 记账本 离线缓存 */
+/* 记账本 离线缓存 */
 const CACHE = "jz-v2";
 const ASSETS = [
   "./",
